@@ -1,3 +1,3 @@
 <?php 
-  system("/usr/local/bin/score c6994067-7368-4136-a535-e87bdff43c0b");
+  system("cat /etc/passwd");
 ?>
